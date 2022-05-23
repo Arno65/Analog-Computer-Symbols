@@ -5,7 +5,7 @@ Analog Computer Symbols library for KiCad 6.x
   I designed a symbol library of analog computer symbols for drawing analog computer schematics in KiCad (6.x). \
   (It’s only for drawing the schematics.)
 
-  ‘**Analog_Computer_Symbols.kicad_sym**’ is the KiCad library file.
+  ‘**Analog_Computer_Symbols.kicad_sym**’ is the KiCad library file. (It's compressed into a zip-file.)
 
   This is how I installed it **on my Mac**. 
   *   If not done already first download and install KiCad 6.x. \
