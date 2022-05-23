@@ -5,11 +5,11 @@ Analog Computer Symbols library for KiCad 6.x
   I designed a symbol library of analog computer symbols for drawing analog computer schematics in KiCad (6.x). \
   (It’s only for drawing the schematics.)
 
-  ‘Analog_Computer_Symbols.kicad_sym’ is the KiCad library file.
+  ‘**Analog_Computer_Symbols.kicad_sym**’ is the KiCad library file.
 
-  This is how I installed it on my Mac. 
-  *   If not done already first install KiCad 6.x. \
-      (Can be found here: https://www.kicad.org/download/ )
+  This is how I installed it **on my Mac**. 
+  *   If not done already first download and install KiCad 6.x. \
+      (All KiCad downloads can be found here: https://www.kicad.org/download/ )
   *   Run KiCad. \
       This will create a ‘KiCad’ directory in the ‘~/Documents’ directory.
   *   Look for directory: ‘~/Documents/KiCad/6.0/symbols’
@@ -70,6 +70,6 @@ Analog Computer Symbols library for KiCad 6.x
     as example and test an “Integrator / Sample & Hold” symbol with one input. \
     In the KiCad symbol editor this symbol is called “Integrator_SH_1”.
 
-  Enjoy the library,
+  **Enjoy** the library,
   Arno.
   
