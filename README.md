@@ -2,18 +2,24 @@
 Analog Computer Symbols library for KiCad 6.x
 
 
-I designed a symbol library of analog computer symbols for drawing analog computer schematics. (It’s only for drawing the schematics.)
+  I designed a symbol library of analog computer symbols for drawing analog computer schematics. 
+  (It’s only for drawing the schematics.)
 
-‘Analog_Computer_Symbols.kicad_sym’ is the KiCad library file.
+  ‘Analog_Computer_Symbols.kicad_sym’ is the KiCad library file.
 
-This is how I installed it on my Mac. 
-If not done already first install KiCad 6.x. (Can be found here: https://www.kicad.org/download/macos/ )
-Run KiCad.  This will create a ‘KiCad’ directory in the ‘~/Documents’ directory.
-Look for directory: ‘~/Documents/KiCad/6.0/symbols’
-Copy ‘Analog_Computer_Symbols.kicad_sym’ into the ‘symbols’ directory.
-You’re probably still running KiCad. Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
-There are some buttons almost on the bottom of the ‘Symbol Libraries’ window. The second one is the one with a ‘map’ symbol. Click that button with hint: ’Add existing library to table’
-Now add file ‘Analog_Computer_Symbols.kicad_sym’
+  This is how I installed it on my Mac. 
+  *   If not done already first install KiCad 6.x.
+      (Can be found here: https://www.kicad.org/download/macos/ )
+  *   Run KiCad.
+      This will create a ‘KiCad’ directory in the ‘~/Documents’ directory.
+  *   Look for directory: ‘~/Documents/KiCad/6.0/symbols’
+  *   Copy ‘Analog_Computer_Symbols.kicad_sym’ into the ‘symbols’ directory.
+  *   You’re probably still running KiCad.
+      Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
+  *   There are some buttons almost on the bottom of the ‘Symbol Libraries’ window.
+      The second one is the one with a ‘map’ symbol.
+      Click that button with hint: ’Add existing library to table’
+  *   Now add file ‘Analog_Computer_Symbols.kicad_sym’
 
 The current version of the Analog Computer Symbols library has too much symbols for a THAT user. But it probably misses some symbols for a system like the “Analog Paradigm Model-1”. This library is work in progress ;-)
 And do let me know if something is missing or wrong.
