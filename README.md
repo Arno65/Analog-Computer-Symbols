@@ -9,7 +9,7 @@ Analog Computer Symbols library for KiCad 6.x
 
   This is how I installed it on my Mac. 
   *   If not done already first install KiCad 6.x.
-      (Can be found here: https://www.kicad.org/download/macos/ )
+      (Can be found here: https://www.kicad.org/download/ )
   *   Run KiCad.
       This will create a ‘KiCad’ directory in the ‘~/Documents’ directory.
   *   Look for directory: ‘~/Documents/KiCad/6.0/symbols’
