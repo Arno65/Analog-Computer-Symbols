@@ -40,7 +40,7 @@ Analog Computer Symbols library for KiCad 6.x
   *   General function symbol with two inputs
   *   General function symbol with three inputs
   *   General function symbol with two inputs, incl. ‘x’ and ‘y’ labels
-  *   General function symbol with three inputs, incl. ‘x’,’y’ and ‘z’ labels
+  *   General function symbol with three inputs, incl. ‘x’, ’y’ and ‘z’ labels
   *   General function symbol with two inputs and two outputs
   *   Integrator with one up to six inputs
   *   Integrator with one up to six inputs and a initial condition pin
@@ -70,6 +70,6 @@ Analog Computer Symbols library for KiCad 6.x
     as example and test an “Integrator / Sample & Hold” symbol with one input. \
     In the KiCad symbol editor this symbol is called “Integrator_SH_1”.
 
-  **Enjoy** the library,
+  **Enjoy** the library, \
   Arno.
   
