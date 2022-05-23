@@ -5,7 +5,6 @@ Analog Computer Symbols library for KiCad 6.x
   I designed a symbol library of analog computer symbols for drawing analog computer schematics in KiCad (6.x). \
   (It’s only for drawing the schematics.)
 
-
   ‘Analog_Computer_Symbols.kicad_sym’ is the KiCad library file.
 
   This is how I installed it on my Mac. 
@@ -22,14 +21,13 @@ Analog Computer Symbols library for KiCad 6.x
       Click that button with hint: ’Add existing library to table’
   *   Now add file ‘Analog_Computer_Symbols.kicad_sym’
 
-  The current version of the Analog Computer Symbols library has too much symbols for a THAT user.
-  But it probably misses some symbols for a system like the “Analog Paradigm Model-1”.
-  This library is work in progress ;-)
-  
+  The current version of the Analog Computer Symbols library has too much symbols for a THAT user. \
+  But it probably misses some symbols for a system like the “Analog Paradigm Model-1”. \
+  This library is work in progress ;-) \
   And do let me know if something is missing or wrong.
 
-
-  KiCad already has symbols for resistors, capacitors, (zener) diodes and misc. I/O connectors. These are not added to the library.
+  KiCad already has symbols for resistors, capacitors, (zener) diodes and misc. I/O connectors. \
+  These are not added to the library.
 
   Here a list of the current symbols:
   *   Cartesian to polar conversion
@@ -69,9 +67,8 @@ Analog Computer Symbols library for KiCad 6.x
   *   Five versions of ’10’
 
   By my interpretation… 
-    as example and test an “Integrator / Sample & Hold” symbol with one input.
+    as example and test an “Integrator / Sample & Hold” symbol with one input. \
     In the KiCad symbol editor this symbol is called “Integrator_SH_1”.
-
 
   Enjoy the library,
   Arno.
