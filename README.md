@@ -8,16 +8,16 @@ Analog Computer Symbols library for KiCad 6.x
   ‘Analog_Computer_Symbols.kicad_sym’ is the KiCad library file.
 
   This is how I installed it on my Mac. 
-  *   If not done already first install KiCad 6.x.
+  *   If not done already first install KiCad 6.x. \
       (Can be found here: https://www.kicad.org/download/ )
-  *   Run KiCad.
+  *   Run KiCad. \
       This will create a ‘KiCad’ directory in the ‘~/Documents’ directory.
   *   Look for directory: ‘~/Documents/KiCad/6.0/symbols’
   *   Copy ‘Analog_Computer_Symbols.kicad_sym’ into the ‘symbols’ directory.
-  *   You’re probably still running KiCad.
+  *   You’re probably still running KiCad. \
       Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
-  *   There are some buttons almost on the bottom of the ‘Symbol Libraries’ window.
-      The second one is the one with a ‘map’ symbol.
+  *   There are some buttons almost on the bottom of the ‘Symbol Libraries’ window. \
+      The second one is the one with a ‘map’ symbol. \
       Click that button with hint: ’Add existing library to table’
   *   Now add file ‘Analog_Computer_Symbols.kicad_sym’
 
