@@ -21,51 +21,55 @@ Analog Computer Symbols library for KiCad 6.x
       Click that button with hint: ’Add existing library to table’
   *   Now add file ‘Analog_Computer_Symbols.kicad_sym’
 
-The current version of the Analog Computer Symbols library has too much symbols for a THAT user. But it probably misses some symbols for a system like the “Analog Paradigm Model-1”. This library is work in progress ;-)
-And do let me know if something is missing or wrong.
+  The current version of the Analog Computer Symbols library has too much symbols for a THAT user.
+  But it probably misses some symbols for a system like the “Analog Paradigm Model-1”.
+  This library is work in progress ;-)
+  And do let me know if something is missing or wrong.
 
-KiCad already has symbols for resistors, capacitors, (zener) diodes and misc. I/O connectors. These are not added to the library.
+  KiCad already has symbols for resistors, capacitors, (zener) diodes and misc. I/O connectors. These are not added to the library.
 
-Here a list of the current symbols:
-Cartesian to polar conversion
-Coefficient potentiometer with 2 terminals
-Coefficient potentiometer with 3 terminals
-Comparator (relay version with switch down)
-Comparator (relay version with switch up)
-A divider function; ‘numerator’ and ‘denominator’ can be placed into the divider symbol
-General function symbol with one input
-General function symbol with two inputs
-General function symbol with three inputs
-General function symbol with two inputs, incl. ‘x’ and ‘y’ labels
-General function symbol with three inputs, incl. ‘x’,’y’ and ‘z’ labels
-General function symbol with two inputs and two outputs
-Integrator with one up to six inputs
-Integrator with one up to six inputs and a initial condition pin
-Inverter, there are separate ‘+’ and ‘-‘ symbols that can be placed into the inverter symbol
-Two pole multiplier with ‘X’  symbol, either with or without a leading ‘+’ or ‘-‘
-Two pole multiplier with ‘∏’  symbol, either with or without a leading ‘+’ or ‘-‘
-Four pole multiplier with ‘X’ symbol
-Four pole multiplier with ‘∏’ symbol
-Open amplifier with one up to six inputs
-Two different ‘pin’ or connector symbols
-Polar to cartesian conversion
-A square function
-A square root function
-Summers with two up to six inputs
+  Here a list of the current symbols:
+  *   Cartesian to polar conversion
+  *   Coefficient potentiometer with 2 terminals
+  *   Coefficient potentiometer with 3 terminals
+  *   Comparator (relay version with switch down)
+  *   Comparator (relay version with switch up)
+  *   A divider function; ‘numerator’ and ‘denominator’ can be placed into the divider symbol
+  *   General function symbol with one input
+  *   General function symbol with two inputs
+  *   General function symbol with three inputs
+  *   General function symbol with two inputs, incl. ‘x’ and ‘y’ labels
+  *   General function symbol with three inputs, incl. ‘x’,’y’ and ‘z’ labels
+  *   General function symbol with two inputs and two outputs
+  *   Integrator with one up to six inputs
+  *   Integrator with one up to six inputs and a initial condition pin
+  *   Inverter, there are separate ‘+’ and ‘-‘ symbols that can be placed into the inverter symbol
+  *   Two pole multiplier with ‘X’  symbol, either with or without a leading ‘+’ or ‘-‘
+  *   Two pole multiplier with ‘∏’  symbol, either with or without a leading ‘+’ or ‘-‘
+  *   Four pole multiplier with ‘X’ symbol
+  *   Four pole multiplier with ‘∏’ symbol
+  *   Open amplifier with one up to six inputs
+  *   Two different ‘pin’ or connector symbols
+  *   Polar to cartesian conversion
+  *   A square function
+  *   A square root function
+  *   Summers with two up to six inputs
 
-Some text symbols:
-‘denominator’
-‘numerator’
-‘IC’ for initial condition
-Three versions of ‘SJ’ for summing junction
-‘-1’
-Two versions of ‘1’ 
-‘+1’
-Five versions of ’10’
+  Some text symbols:
+  *   ‘denominator’
+  *   ‘numerator’
+  *   ‘IC’ for initial condition
+  *   Three versions of ‘SJ’ for summing junction
+  *   ‘-1’
+  *   Two versions of ‘1’ 
+  *   ‘+1’
+  *   Five versions of ’10’
 
-By my interpretation… as example and test an “Integrator / Sample & Hold” symbol with one input. In the KiCad symbol editor this symbol is called “Integrator_SH_1”.
+  By my interpretation… 
+    as example and test an “Integrator / Sample & Hold” symbol with one input.
+    In the KiCad symbol editor this symbol is called “Integrator_SH_1”.
 
 
-Enjoy the library,
-Arno.
-
+  Enjoy the library,
+  Arno.
+  
