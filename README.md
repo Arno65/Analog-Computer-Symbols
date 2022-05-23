@@ -2,8 +2,7 @@
 Analog Computer Symbols library for KiCad 6.x
 
 
-  I designed a symbol library of analog computer symbols for drawing analog computer schematics in KiCad (6.x). 
-
+  I designed a symbol library of analog computer symbols for drawing analog computer schematics in KiCad (6.x). \
   (It’s only for drawing the schematics.)
 
 
