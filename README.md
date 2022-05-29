@@ -47,6 +47,7 @@ Analog Computer Symbols library for KiCad 6.x
   *   Inverter, there are separate ‘+’ and ‘-‘ symbols that can be placed into the inverter symbol
   *   Two pole multiplier with ‘X’  symbol, either with or without a leading ‘+’ or ‘-‘
   *   Two pole multiplier with ‘∏’  symbol, either with or without a leading ‘+’ or ‘-‘
+  *   Two pole multiplier with a big ‘X’
   *   Four pole multiplier with ‘X’ symbol
   *   Four pole multiplier with ‘∏’ symbol
   *   Open amplifier with one up to six inputs
