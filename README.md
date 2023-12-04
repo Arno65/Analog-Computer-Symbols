@@ -72,6 +72,6 @@ Analog Computer Symbols library for KiCad 6.x and 7.x
     as example and test an “Integrator / Sample & Hold” symbol with one input. \
     In the KiCad symbol editor this symbol is called “Integrator_SH_1”.
 
-  **Enjoy** the library, \
+  **Enjoy** the library and **HAPPY Analog Computing!**, \
   Arno.
   
