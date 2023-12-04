@@ -9,7 +9,7 @@ Analog Computer Symbols library for KiCad 6.x and 7.x
   ‘**Analog_Computer_Symbols.kicad_sym**’ is the KiCad library file. (It's compressed into a zip-file.)
 
   This is how I installed it **on my Mac**. 
-  *   If not done already first download and install KiCad 6.x. \
+  *   If not done already first download and install the latest KiCad 7.x. (or 6.x) \
       (All KiCad downloads can be found here: https://www.kicad.org/download/ )
   *   Run KiCad. \
       This will create a ‘KiCad’ directory in the ‘~/Documents’ directory.
