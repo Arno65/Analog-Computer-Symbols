@@ -23,7 +23,7 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
           (again, look for directory: `~/Documents/KiCad/8.0/symbols` and add the file) 
       *  Optional, add a description 
         
-    *The next will work for version 7.x or 6.x* \
+  *   If you’re running KiCad 7 or 6. \
       *  Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
       *  There are some buttons almost on the bottom of the ‘Symbol Libraries’ window. \
           The second one is the one with a ‘map’ symbol. \
