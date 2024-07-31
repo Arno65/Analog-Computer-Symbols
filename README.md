@@ -3,19 +3,20 @@ Analog Computer Symbols library for KiCad 6.x and 7.x
 
 
   I designed a symbol library of analog computer symbols for drawing analog computer schematics in KiCad (6.x). \
-  It's still working 0K after updating KiCad to version 7.x. \
+  It's still working 0K after updating KiCad to version 7 and 8. \
   (It’s only for drawing the schematics.)
 
   ‘**Analog_Computer_Symbols.kicad_sym**’ is the KiCad library file. (It's compressed into a zip-file.)
 
   This is how I installed it **on my Mac**. 
-  *   If not done already first download and install the latest KiCad 7.x. (or 6.x) \
+  *   If not done already first download and install the latest KiCad 8 or 7 (or 6.x) \
       (All KiCad downloads can be found here: https://www.kicad.org/download/ )
   *   Run KiCad. \
       This will create a ‘KiCad’ directory in the ‘~/Documents’ directory.
-  *   Look for directory: ‘~/Documents/KiCad/6.0/symbols’
+  *   Look for directory: ‘~/Documents/KiCad/8.0/symbols’ or ‘~/Documents/KiCad/*version number*/symbols’
   *   Copy ‘Analog_Computer_Symbols.kicad_sym’ into the ‘symbols’ directory.
   *   You’re probably still running KiCad. \
+      *The next will only work for version 7.x or 6.x*
       Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
   *   There are some buttons almost on the bottom of the ‘Symbol Libraries’ window. \
       The second one is the one with a ‘map’ symbol. \
