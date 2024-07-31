@@ -24,11 +24,11 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
       *  Optional, add a description 
         
   *   If you’re running KiCad 7 or 6. 
-      *  Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
-      *  There are some buttons almost on the bottom of the ‘Symbol Libraries’ window. \
-          The second one is the one with a ‘map’ symbol. \
-      *  Click that button with hint: ’Add existing library to table’
-      *  Now add file ‘Analog_Computer_Symbols.kicad_sym’ 
+      *  Open via KiCad menu: `Preferences` -> `Manage Symbol Libraries`
+      *  There are some buttons almost on the bottom of the `Symbol Libraries` window. \
+          The second one is the one with a `map` symbol. \
+      *  Click that button with hint: `Add existing library to table`
+      *  Now add file *Analog_Computer_Symbols.kicad_sym* 
 
   The current version of the Analog Computer Symbols library has too much symbols for a THAT user. \
   But it probably misses some symbols for a system like the “Analog Paradigm Model-1”. \
