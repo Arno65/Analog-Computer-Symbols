@@ -16,14 +16,14 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
   *   Look for directory: `~/Documents/KiCad/8.0/symbols` \
       The `8.0` corresponds with the KiCad version number.
   *   Copy ‘Analog_Computer_Symbols.kicad_sym’ into the ‘symbols’ directory.
-  *   You’re probably still running KiCad. \
-      For `KiCad 8` open the `Symbol Editor` 
+  *   If you’re running KiCad 8.
+      *  open the `Symbol Editor` 
       *  menu option: `Preference` -> `Manage Symbol libraries` 
       *  'Add existing library to table' \
           (again, look for directory: `~/Documents/KiCad/8.0/symbols` and add the file) 
       *  Optional, add a description 
         
-  *   If you’re running KiCad 7 or 6. \
+  *   If you’re running KiCad 7 or 6. 
       *  Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
       *  There are some buttons almost on the bottom of the ‘Symbol Libraries’ window. \
           The second one is the one with a ‘map’ symbol. \
