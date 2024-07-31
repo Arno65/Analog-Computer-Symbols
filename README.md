@@ -22,7 +22,7 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
       *  select `Global`
       *  `Open` the library stored in the `symbols` directory \
           (look for directory: `~/Documents/KiCad/8.0/symbols`) 
-      *  Optional, add a description via the `Manage Symbol Libraries` menu option under `Preferences`
+      *  Optional, add a description via `Preferences` -> `Manage Symbol Libraries`
         
   *   If you’re running KiCad 7 or 6. 
       *  Open via KiCad menu: `Preferences` -> `Manage Symbol Libraries`
