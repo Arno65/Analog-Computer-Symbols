@@ -14,7 +14,7 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
   *   Run KiCad. \
       This will create a `KiCad` directory in the `~/Documents` directory.
   *   Look for directory: `~/Documents/KiCad/8.0/symbols` \
-      The **8.0** corresponds with the KiCad version number.
+      The `8.0` corresponds with the KiCad version number.
   *   Copy ‘Analog_Computer_Symbols.kicad_sym’ into the ‘symbols’ directory.
   *   You’re probably still running KiCad. \
       *The next will only work for version 7.x or 6.x* \
