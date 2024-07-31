@@ -32,7 +32,7 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
       *  Now add file `Analog_Computer_Symbols.kicad_sym`
 
   The current version of the Analog Computer Symbols library has too much symbols for a THAT user. \
-  But it probably misses some symbols for a system like the “Analog Paradigm Model-1”. \
+  But it probably misses some symbols for a system like the *Analog Paradigm Model-1*. \
   This library is work in progress. Please let me know if something is missing or wrong.
 
   KiCad already has symbols for resistors, capacitors, (zener) diodes and misc. I/O connectors. \
