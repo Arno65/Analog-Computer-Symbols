@@ -6,7 +6,7 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
   It's still working 0K after updating KiCad to version 7 and 8. \
   (It’s only for drawing the schematics.)
 
-  ‘**Analog_Computer_Symbols.kicad_sym**’ is the KiCad library file. (It's compressed into a zip-file.)
+  `Analog_Computer_Symbols.kicad_sym` is the KiCad library file. (It's compressed into a zip-file.)
 
   This is how I installed it **on my Mac**. 
   *   If not done already first download and install the latest KiCad 8 or 7 (or 6.x) \
