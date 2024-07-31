@@ -17,12 +17,17 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
       The `8.0` corresponds with the KiCad version number.
   *   Copy ‘Analog_Computer_Symbols.kicad_sym’ into the ‘symbols’ directory.
   *   You’re probably still running KiCad. \
+      For `KiCad 8` open the `Symbol Editor` \
+      *  menu option: `Preference` -> `Manage Symbol libraries` \
+      *  'Add existing library to table' \
+          (again, look for directory: `~/Documents/KiCad/8.0/symbols` and add the file) \
+      *  Optional, add a description \
       *The next will only work for version 7.x or 6.x* \
-      Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
-  *   There are some buttons almost on the bottom of the ‘Symbol Libraries’ window. \
-      The second one is the one with a ‘map’ symbol. \
-      Click that button with hint: ’Add existing library to table’
-  *   Now add file ‘Analog_Computer_Symbols.kicad_sym’
+      *  Open via KiCad-menu: Preferences -> Manage Symbol Libraries…
+      *  There are some buttons almost on the bottom of the ‘Symbol Libraries’ window. \
+          The second one is the one with a ‘map’ symbol. \
+      *  Click that button with hint: ’Add existing library to table’
+      *  Now add file ‘Analog_Computer_Symbols.kicad_sym’ 
 
   The current version of the Analog Computer Symbols library has too much symbols for a THAT user. \
   But it probably misses some symbols for a system like the “Analog Paradigm Model-1”. \
