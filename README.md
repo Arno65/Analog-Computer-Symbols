@@ -19,7 +19,7 @@ Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
   *   You’re probably still running KiCad. \
       For `KiCad 8` open the `Symbol Editor` 
       *  menu option: `Preference` -> `Manage Symbol libraries` 
-      *  'Add existing library to table' 
+      *  'Add existing library to table' \
           (again, look for directory: `~/Documents/KiCad/8.0/symbols` and add the file) 
       *  Optional, add a description 
         
