@@ -1,5 +1,5 @@
 # Analog-Computer-Symbols
-Analog Computer Symbols library for KiCad 6.x, 7.x and 8.x
+Analog Computer Symbols library for KiCad 6.x, 7.x, 8.x and 9.x
 
 
   I designed a symbol library of analog computer symbols for drawing analog computer schematics in KiCad 6. \
