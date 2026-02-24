@@ -80,6 +80,10 @@ Analog Computer Symbols library for KiCad 6.x, 7.x, 8.x and 9.x
     as example and test an “Integrator / Sample & Hold” symbol with one input. \
     In the KiCad symbol editor this symbol is called “Integrator_SH_1”.
 
+
+An early version (sometime 2010) was created in Eagle. I've added that library to the repo.
+
+
   **Enjoy** the library and **HAPPY Analog Computing!**, \
   Arno.
   
